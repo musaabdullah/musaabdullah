@@ -30,7 +30,7 @@
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img alt="Xml" src="https://banner2.cleanpng.com/20181205/fu/kisspng-xml-scalable-vector-graphics-image-data-web-feed-jules-thuillier-ampquot-old-remote-app-brains-5c0881bd8bd6c5.2990553315440613735728.jpg" />
+  <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
   </br>
 </p>
  
